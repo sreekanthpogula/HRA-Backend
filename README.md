@@ -1,4 +1,4 @@
-# associate-health-risk-assessment
+# Associate-Health-Risk-Assessment
 ## Getting started
 This application is used or the tracking the health of the associates based on the medical history, sleep, stress, safety, nutrition, fitness and generates the recommendations for the associates based on their healthdata.
 
